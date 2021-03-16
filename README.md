@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliviasmidt
 - 👀 I’m interested in tech, software engineering, geeky jokes about Harry Potter and G&Ts
-- 🌱 I’m currently learning how to talk to developers (technically); getting creative with vlogging as well as automated interviewing tools
+- 🌱 I’m currently learning how to talk to developers (technically); getting creative with vlogging as well as using automated interviewing tools
 - 💞️ I’m looking to collaborate on anything software and tech related
 - 📫 How to reach me: olivia.smidt21@gmail.com
 
